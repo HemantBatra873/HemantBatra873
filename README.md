@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Hemant!
 
-I'm a passionate MERN stack developer with strong skills in HTML, CSS, and JavaScript. I also enjoy solving data structures and algorithms challenges in Java. I believe in the transformative potential of technology and enjoy exploring new frontiers
+I'm a passionate MERN stack and NextJS developer with strong skills in HTML, CSS, and JavaScript and Python. I also enjoy solving data structures and algorithms challenges in Java. I believe in the transformative potential of technology and enjoy exploring new frontiers
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently working on Mern Stack.
+- 🔭 I'm currently working on Django.
 - 🌱 I'm constantly learning and expanding my skills in Data Structure.
 - 💡 I'm excited about the creative possibilities of  AI .
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
@@ -13,10 +13,10 @@ I'm a passionate MERN stack developer with strong skills in HTML, CSS, and JavaS
 
 ## 🛠️ Tech Stack
 
-- **FrontEnd Development**: ReactJS, HTML5, CSS3 , JavascriptES6+
-- **Backend Development**: NodeJS , ExpressJS , mongooseJS
-- **Databases**:  mySQL , mongoDB
-- **Tools**:  VS Code
+- **FrontEnd Development**: ReactJS, HTML5, CSS3 , JavascriptES6+ , NextJS , Tailwind CSS , Redux , Shadcn , Material UI
+- **Backend Development**: NodeJS , ExpressJS , mongooseJS , Drizzle , Inngest
+- **Databases**:  mySQL , mongoDB , PostgreSQL , NeonDB
+- **Tools**:  VS Code , Postman , Github , Vercel 
 
 
 ## 📫 Let's Connect
