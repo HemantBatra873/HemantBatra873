@@ -4,7 +4,7 @@ I'm a passionate MERN stack and NextJS developer with strong skills in HTML, CSS
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently working on Django.
+- 🔭 I'm currently working on NextJS.
 - 🌱 I'm constantly learning and expanding my skills in Data Structure.
 - 💡 I'm excited about the creative possibilities of  AI .
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
