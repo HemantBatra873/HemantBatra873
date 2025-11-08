@@ -11,10 +11,11 @@ I'm a passionate software developer with strong skills in Frontend and backend d
 
 ## 🛠️ Tech Stack
 
-- **FrontEnd Development**: ReactJS, HTML5, CSS3 , JavascriptES6+ , NextJS , Tailwind CSS , Redux , Shadcn , Material UI
-- **Backend Development**: NodeJS , ExpressJS , mongooseJS , Drizzle , Inngest
-- **Databases**:  mySQL , mongoDB , PostgreSQL , NeonDB
-- **Tools**:  VS Code , Postman , Github , Vercel 
+- **FrontEnd Development**: Angular, React, HTML, CSS, Tailwind CSS, Redux
+- **Backend Development**: .NET, Node, Express
+- **Languages**: Javascript, SQL, Java, C#, C++, Python 
+- **Databases**:  mySQL , MongoDB , PostgreSQL
+- **Tools**:  VS Code , Postman , Github 
 
 
 ## 📫 Let's Connect
