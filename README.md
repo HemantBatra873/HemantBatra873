@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hemant!
 
-I'm a passionate software developer with strong skills in Frontend and backend development. I enjoy tackling DSA challenges. I believe in the transformative potential of technology and enjoy exploring new frontiers
+I'm a software developer with skills in Frontend and backend development. 
 
 ## 🚀 Quick Facts
 
