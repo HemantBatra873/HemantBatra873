@@ -25,5 +25,5 @@ I'm a passionate software developer with strong skills in Frontend and backend d
 **Languages and Tools:**
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,mysql,react,vscode,replit,cpp,c,express,godot,java,mongodb,nodejs,angular,npm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,mysql,react,vscode,dotnet,replit,cpp,c,express,godot,java,mongodb,nodejs,angular,npm&perline=14" />
   </a>
