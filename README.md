@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hemant!
 
-I'm a software developer with skills in Frontend and backend development. 
+I'm a Fullstack software developer. 
 
 ## 🚀 Quick Facts
 
