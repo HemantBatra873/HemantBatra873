@@ -4,9 +4,8 @@ I'm a passionate software developer with strong skills in Frontend and backend d
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently working on NextJS.
+- 🔭 I'm currently working on Angular/.NET.
 - 🌱 I'm constantly learning and expanding my skills in Data Structure.
-- 💡 I'm excited about the creative possibilities of  AI .
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
 - 🎮 I love playing video games and learning about the technologies behind them.
 
@@ -26,5 +25,5 @@ I'm a passionate software developer with strong skills in Frontend and backend d
 **Languages and Tools:**
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,mysql,react,vscode,replit,cpp,c,express,godot,java,mongodb,nodejs,npm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=github,git,html,css,js,mysql,react,vscode,replit,cpp,c,express,godot,java,mongodb,nodejs,angular,npm&perline=14" />
   </a>
