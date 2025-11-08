@@ -5,7 +5,6 @@ I'm a Fullstack software developer.
 ## 🚀 Quick Facts
 
 - 🔭 I'm currently working on Angular/.NET.
-- 🌱 I'm constantly learning and expanding my skills in Data Structure.
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
 - 🎮 I love playing video games and learning about the technologies behind them.
 
