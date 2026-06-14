@@ -6,11 +6,10 @@ I'm a Fullstack software developer.
 
 - 🔭 I'm currently working on Angular/.NET.
 - 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
-- 🎮 I love playing video games and learning about the technologies behind them.
 
 ## 🛠️ Tech Stack
 
-- **FrontEnd Development**: Angular, React, HTML, CSS, Tailwind CSS, Redux
+- **FrontEnd Development**: Angular, React,Next, HTML, CSS, Tailwind CSS, Redux
 - **Backend Development**: .NET, Node, Express
 - **Languages**: Javascript, SQL, Java, C#, C++, Python 
 - **Databases**:  mySQL , MongoDB , PostgreSQL
