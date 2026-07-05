@@ -4,8 +4,8 @@ I'm a Fullstack software developer.
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently working on Angular/.NET.
-- 🎓 I am currently doing a Bachelor's degree in Technology from MSIT.
+- 🔭 I'm currently working in Angular/.NET domain.
+- 🎓 I am completed my Bachelor's in Technology (CSE) from MSIT.
 
 ## 🛠️ Tech Stack
 
