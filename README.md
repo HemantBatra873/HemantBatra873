@@ -1,19 +1,15 @@
 # 👋 Hi there, I'm Hemant!
 
-I'm a Fullstack software developer. 
-
-## 🚀 Quick Facts
-
-- 🔭 I'm currently working in Angular/.NET domain.
-- 🎓 I am completed my Bachelor's in Technology (CSE) from MSIT.
+I'm a Fullstack software developer at Veersa Technologies. 
+I am completed my Bachelor's in Technology (CSE) from MSIT.
 
 ## 🛠️ Tech Stack
 
-- **FrontEnd Development**: Angular, React,Next, HTML, CSS, Tailwind CSS, Redux
-- **Backend Development**: .NET, Node, Express
+- **FrontEnd Development**: Angular, React, HTML, CSS, Tailwind CSS, Redux
+- **Backend Development**: .NET, Node, Express, FastAPI, Next, Django
 - **Languages**: Javascript, SQL, Java, C#, C++, Python 
-- **Databases**:  mySQL , MongoDB , PostgreSQL
-- **Tools**:  VS Code , Postman , Github 
+- **Databases**:  MySQL , MongoDB , PostgreSQL
+- **Tools**:  Cursor , Postman , Github 
 
 
 ## 📫 Let's Connect
